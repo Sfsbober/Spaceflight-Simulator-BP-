@@ -1,3 +1,3 @@
 # Spaceflight-Simulator-BP-
 Create new folder "Starship Crew"
-and put these files in this folder:)
+and put Blueprint.txt and Version.txt files in this folder:)
